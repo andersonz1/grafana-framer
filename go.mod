@@ -3,7 +3,7 @@ module github.com/andersonz1/grafana-framer
 go 1.18
 
 require (
-	github.com/andersonz1/grafana-plugin-sdk-go latest
+	github.com/andersonz1/grafana-plugin-sdk-go v0.140.0
 	github.com/noborus/trdsql v0.10.0
 	github.com/stretchr/testify v1.7.2
 	github.com/tidwall/gjson v1.14.1
