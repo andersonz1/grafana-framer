@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
 	"github.com/tidwall/gjson"
-	"github.com/yesoreyeram/grafana-framer/gframer"
+	"github.com/andersonz1/grafana-framer/gframer"
 )
 
 type FramerType string

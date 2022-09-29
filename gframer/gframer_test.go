@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/experimental"
+	"github.com/andersonz1/grafana-plugin-sdk-go/experimental"
 	"github.com/stretchr/testify/require"
-	"github.com/yesoreyeram/grafana-framer/gframer"
+	"github.com/andersonz1/grafana-framer/gframer"
 )
 
 func TestToDataFrame(t *testing.T) {

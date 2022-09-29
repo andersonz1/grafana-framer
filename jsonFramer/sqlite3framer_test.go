@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/yesoreyeram/grafana-framer/jsonFramer"
+	"github.com/andersonz1/grafana-framer/jsonFramer"
 )
 
 func Test_queryJSONUsingSQLite3(t *testing.T) {

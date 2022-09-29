@@ -1,9 +1,9 @@
-module github.com/yesoreyeram/grafana-framer
+module github.com/andersonz1/grafana-framer
 
 go 1.18
 
 require (
-	github.com/grafana/grafana-plugin-sdk-go v0.137.0
+	github.com/andersonz1/grafana-plugin-sdk-go latest
 	github.com/noborus/trdsql v0.10.0
 	github.com/stretchr/testify v1.7.2
 	github.com/tidwall/gjson v1.14.1
